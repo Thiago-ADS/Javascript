@@ -16,3 +16,11 @@
  * git clone <LinkDoRepositorio>
  * Após isso a pasta ja está pronta e com os arquivos
  */
+
+/**
+ * Atualizar repositorio no computador
+ * Ir na pasta
+ * git bash
+ * git fetch (Atualiza os arquivos)
+ * git pull (puxa os arquivos)
+ */
