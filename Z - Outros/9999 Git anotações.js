@@ -23,4 +23,9 @@
  * git bash
  * git fetch (Atualiza os arquivos)
  * git pull (puxa os arquivos)
+ * 
+ * git bash
+ * git add .
+ * git commit -m 'javascript ou qlqr coisa boa'
+ * git push
  */
