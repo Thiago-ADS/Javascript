@@ -1,7 +1,7 @@
 /**
  *  Continue
- *  Com isso, caso um requerimento for atingido, podemos continuar o loop até atingir outra condição
- *  Eu não entendi direito como funciona mas é algo assim
+ *  Com isso, caso um requerimento for atingido, podemos continuar o loop para ver se o PRÓXIMO loop vai atingir também a sua condição
+ *  Então basicamente, atinge a condição, dá o que quer, vai pro próximo ciclo, vê se atinge, se sim, dá o que quer, se não, não acontece nada.
  */
 
 let x = 0
@@ -30,8 +30,3 @@ for(let i = 10; i > 0; i = i - 1) {
 
 }
 
-/**
- *  Na real, pelo jeito, pula uma parte da execução do loop
- *  Ali vai botar ''cotinuando'' ao invés de pegar os números pares, e por causa do continue, vai continuar fazendo isso
- *  
- */
