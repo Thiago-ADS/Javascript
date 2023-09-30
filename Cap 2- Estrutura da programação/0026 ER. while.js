@@ -9,7 +9,7 @@ while(x > 0) {
     console.log(x);
     x = x - 1;
 } // X é igual a 10, então enquanto X for maior que zero, x vai receber x - 1, ou seja, vai subtraindo 1
-// então no final, resultado foi 10, 9, 8, 7 ,6... 2, 1.
+// então no final, resultado foi 10, 9, 8, 7, ... 2, 1.
 
 let y = 0;
 

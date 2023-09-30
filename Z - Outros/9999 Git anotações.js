@@ -26,6 +26,6 @@
  * 
  * git bash
  * git add .
- * git commit -m 'javascript ou qlqr coisa boa'
+ * git commit -m 'javascript 4'
  * git push
  */
